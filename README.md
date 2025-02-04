@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winstonenos
-- 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ...cybersecurity
-- 💞️ I’m looking to collaborate on ...the tech world
+- 👀 I’m interested in ...cybersecurity,web development and network
+- 🌱 I’m currently learning ...cybersecurity,web development and network
+- 💞️ I’m looking to collaborate on ...the cyberspace
 - 📫 How to reach me ... winstonenos96@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
