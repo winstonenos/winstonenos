@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @winstonenos
-- 👀 I’m interested in ...cybersecurity,web development and network
-- 🌱 I’m currently learning ...cybersecurity,web development and network
-- 💞️ I’m looking to collaborate on ...the cyberspace
-- 📫 How to reach me ... winstonenos96@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
 
-<!---
-winstonenos/winstonenos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+ 👋 Hi there, I'm Winston Enos
+
+I'm a passionate learner diving deep into the world of **Cybersecurity** 🛡️. I love exploring how systems work, how they break, and how to make them stronger. Currently sharpening my skills in ethical hacking, network security, and threat analysis.
+
+ 🔍 What I'm Working On
+- Learning penetration testing with tools like **Kali Linux**, **Burp Suite**, and **Wireshark**
+- Studying for **CompTIA Security+** and **CEH (Certified Ethical Hacker)**
+- Building small labs to simulate attacks and defenses
+
+ 🧠 Skills I'm Developing
+- 🔐 Network Security & Protocols
+- 🕵️‍♂️ Reconnaissance & Vulnerability Scanning
+- 📜 Bash & Linux fundamentals
+
+
+ 📚 Learning Resources I Love
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- YouTube channels like **NetworkChuck** and **The Cyber Mentor**
+
+ 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/winston-enos-a2846134a/)
+-winstonenos96@gmail.com
+
+
+
+
+
